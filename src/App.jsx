@@ -1,7 +1,7 @@
 import MainContent from './components/MainContent';
 import logo from './assets/images/logo.png';
 
-function App() {
+function App()  {
   return (
     <>
       <header>
